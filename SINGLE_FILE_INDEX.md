@@ -2,7 +2,7 @@
 
 > 每个型号一个 `single-<型号>` Release，内含该型号全部固件的**单文件**（不打包），按型号直接下载。
 > 整包 zip 仍保留在 `2026-09-20`（全量基线）与 `2026-11-01`（增量）两个 Release，两种方式并存。
-> 共 **265 个型号 / 4035 个固件 / 36.55 GB**（型号按固件文件名前缀归并，如 `JIKEAP_AP243P_MT7621_...` → `AP243P`）。
+> 共 **265 个型号 / 3945 个单文件资产**（归档总量 4035 个 / 36.55 GB）（型号按固件文件名前缀归并，如 `JIKEAP_AP243P_MT7621_...` → `AP243P`）。
 > 另：**98 个历史同名版本**（GitHub 不允许同一 Release 内同名资产）已打包在 [single-extras](https://github.com/heylumen/jike-firmware-archive/releases/tag/single-extras)。
 >
 
